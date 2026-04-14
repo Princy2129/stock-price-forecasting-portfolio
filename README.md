@@ -359,8 +359,10 @@ This project is licensed under the [MIT License](LICENSE).
 **Princy Verma**
 M.Sc. Data Science — DIAT Pune
 
-[![GitHub]([https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME](https://github.com/Princy2129))
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_PROFILE](https://www.linkedin.com/in/princy29/))
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/Princy2129)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/princy29/)
+
 ---
 
 <div align="center">
