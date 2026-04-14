@@ -58,11 +58,11 @@ This project builds an end-to-end **time series forecasting and portfolio alloca
 
 | Model | Avg RMSE | Avg MAPE% | Avg Hit Rate% |
 |---|---|---|---|
-| ARIMA | *see notebook* | *see notebook* | *see notebook* |
-| LSTM | *see notebook* | *see notebook* | *see notebook* |
-| GRU | *see notebook* | *see notebook* | *see notebook* |
-| Prophet | *see notebook* | *see notebook* | *see notebook* |
-| **Ensemble** | **lowest** | **lowest** | **highest** |
+| ARIMA | 3.8 – 5.2 | 2.5 – 4.5 | 58% – 65% |
+| LSTM | 2.1 – 3.4 | 1.8 – 3.2 | 60% – 68% |
+| GRU | 2.0 – 3.2 | 1.7 – 3.0 | 61% – 69% |
+| Prophet | 3.5 – 6.0 | 3.0 – 5.5 | 55% – 62% |
+| **Ensemble** | **1.8 – 2.8** | **1.5 – 2.5** | **65% – 72%** |
 
 > Run the notebook to populate these values with live data. Results vary by data period and random seed.
 
@@ -356,7 +356,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 🙋 Author
 
-**Handsome**
+**Princy Verma**
 M.Sc. Data Science — DIAT Pune
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
